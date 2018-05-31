@@ -10,10 +10,3 @@ Learning Go by creating some playing cards.
 
   // 🂡 Ace of Spades
 ```
-
-```go
-  card := card.NewCardWithString("5♦")
-  fmt.Println(card)
-
-  // 🃅 Five of Diamonds
-```
